@@ -2,7 +2,7 @@
 import unittest
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from models.Tablas import Base, Tarea
+from models.tablas import Base, Tarea
 from repositories.user_repository import UserRepository
 from services.user_service import UserService
 

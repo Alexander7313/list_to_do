@@ -1,4 +1,4 @@
-from models.Tablas import User, Tarea
+from models.tablas import User, Tarea
 
 class UserRepository:
     def __init__(self, session):

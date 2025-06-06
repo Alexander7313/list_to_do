@@ -3,7 +3,7 @@ import unittest
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from models.BaseDatos import Base
+from models.base_datos import Base
 from repositories.user_repository import UserRepository
 from services.user_service import UserService
 

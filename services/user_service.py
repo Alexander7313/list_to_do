@@ -8,7 +8,7 @@ Este módulo utiliza un repositorio para acceder y manipular los datos de usuari
 """
 
 import uuid
-from models.Tablas import User
+from models.tablas import User
 
 class UserService:
     """
