@@ -23,13 +23,21 @@ Este proyecto implementa una aplicación CRUD utilizando Python como lenguaje pr
 
 ## Estructura del Proyecto
 proyecto/
+
 ├── models/ # Entidades y esquemas de la base de datos
+
 ├── repositories/ # Capa de acceso a datos (CRUD)
+
 ├── services/ # Lógica de negocio
+
 ├── tests/ # Pruebas unitarias
+
 ├── data/ # Contiene la base de datos SQLite
+
 │ └── database.db
+
 ├── main.py # Punto de entrada de la aplicación
+
 └── requirements.txt # Lista de dependencias
 
 
