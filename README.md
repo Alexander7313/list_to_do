@@ -61,7 +61,7 @@ proyecto/
 
 | Nombre completo                      | Rol            |
 |--------------------------------------|----------------|
-| Alexander Nelson Landa Rojas         | Desarrollador  |
+| Landa Rojas Alexander Nelson         | Desarrollador  |
 | Arce Curi Rodrigo Vladimir           | Desarrollador  |
 | Gamarra Curi Gianmarco               | Desarrollador  |
 | Gutiérrez Taipe Luis Alberto         | Desarrollador  |
