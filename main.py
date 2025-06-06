@@ -38,6 +38,7 @@ def main():
     """
     Función principal de la aplicación.
 
+
     Realiza una serie de operaciones CRUD sobre la tabla de usuarios:
     - Crea un nuevo usuario.
     - Consulta un usuario por ID.
@@ -46,8 +47,8 @@ def main():
     - Elimina un usuario.
     """
     engine = initialize_database()
-    session_factory = sessionmaker(bind=engine)
-    session = session_factory()
+    Session = sessionmaker(bind=engine)
+    session = Session()
 
     # Configurar repositorio y servicio
     user_repository = UserRepository(session)
