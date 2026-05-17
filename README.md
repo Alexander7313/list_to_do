@@ -22,6 +22,7 @@ Este proyecto implementa una aplicación CRUD utilizando Python como lenguaje pr
 - **unittest** para pruebas unitarias.
 
 ## Estructura del Proyecto
+'''
 proyecto/
 
 ├── models/ # Entidades y esquemas de la base de datos
@@ -39,6 +40,8 @@ proyecto/
 ├── main.py # Punto de entrada de la aplicación
 
 └── requirements.txt # Lista de dependencias
+
+'''
 
 
 ## Funcionalidades
