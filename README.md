@@ -40,7 +40,6 @@ proyecto/
 ├── main.py # Punto de entrada de la aplicación
 
 └── requirements.txt # Lista de dependencias
-
 '''
 
 
